@@ -1,5 +1,2 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.launcher3x" >
-
-    <uses-permission android:name="android.permission.SET_WALLPAPER" />
-</manifest>
+    package="com.android.launcher3x" />

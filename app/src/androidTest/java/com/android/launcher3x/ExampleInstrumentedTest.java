@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.android.launcher3.launcher3", appContext.getPackageName());
+        assertEquals("com.icetang.sample.launcher3x", appContext.getPackageName());
     }
 }
